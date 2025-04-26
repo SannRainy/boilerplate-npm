@@ -2,8 +2,8 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Sannrainy",
 	"dependencies": {
-		"express": "^4.21.2"
-	},
+    "express": "4.14.0"
+},
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
@@ -12,10 +12,10 @@
 		"type": "git",
 		"url": "git+https://github.com/sannrainy/boilerplate-npm.git"
 	},
-	"version": "1.0.0",
-	"description": "This is the boilerplate code for the Managing Packages With npm Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/",
-	"keywords": [],
-	"license": "ISC",
+	"version": "1.2.0",
+	"description": "A project that does something awesome",
+	"keywords": [ "descriptive", "related", "words", "freecodecamp"],
+	"license": "MIT",
 	"type": "commonjs",
 	"bugs": {
 		"url": "https://github.com/sannrainy/boilerplate-npm/issues"
